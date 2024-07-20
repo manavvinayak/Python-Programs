@@ -9,7 +9,6 @@ Welcome to my Python programs repository! 🎉 This repository is a collection o
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Content Overview](#content-overview)
-- [How to Use This Repository](#how-to-use-this-repository)
 - [Contributing](#contributing)
 - [License](#license)
 - [Stay Tuned](#stay-tuned)
