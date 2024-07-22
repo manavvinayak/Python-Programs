@@ -10,7 +10,6 @@ Welcome to my Python programs repository! 🎉 This repository is a collection o
 - [Getting Started](#getting-started)
 - [Content Overview](#content-overview)
 - [Contributing](#contributing)
-- [License](#license)
 - [Stay Tuned](#stay-tuned)
 
 ## Introduction  🐍, 📘, 🔧
@@ -67,8 +66,7 @@ I welcome contributions to this repository! If you have any suggestions, improve
 5. **Push to the branch** (`git push origin feature/your-feature-name`)
 6. **Open a pull request**
 
-## License 📜, 🔗
-This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
 
 ## Stay Tuned ⭐️, 🔔, 🆕
 Stay tuned for more updates as I continue to add more Python programs and cover popular libraries! ⭐️
